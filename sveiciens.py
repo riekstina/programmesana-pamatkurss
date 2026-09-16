@@ -1,1 +1,1 @@
-print ("kaut kas cits")
+print ("kaut kadi citi vardi")
