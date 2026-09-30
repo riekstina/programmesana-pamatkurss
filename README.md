@@ -13,7 +13,7 @@ gitignore dara to, ka tā fails tiek redzams uz desktop, bet tajā ierakstītie 
 
 
 # Programmēšana - pamatkurss
-Autors: Elizabete Riekstiņa
+Autors: **Elizabete Riekstiņa**
 
 
 ## Kā palaist
