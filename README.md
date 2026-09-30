@@ -4,8 +4,9 @@
 Jaunā papilduzdevuma rinda
 
 # Projekta struktūra
--UZDEVUMI, šajā mapē atrodās pildītie uzdevumi
--DATI, šajā mapē atrodās vienā uzdevumā vajadzīgais fails
+
+- UZDEVUMI, šajā mapē atrodās pildītie uzdevumi
+- DATI, šajā mapē atrodās vienā uzdevumā vajadzīgais fails
 
 gitignore dara to, ka tā fails tiek redzams uz desktop, bet tajā ierakstītie dati tiek ignorēti/paslēpti un desktopā neparādās.
 
