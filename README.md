@@ -24,3 +24,5 @@ Autors: **Elizabete Riekstiņa**
 
 ## Licence
 Ar MIT licensi es ļauju citiem ne tikai savu darbu apskatīt, bet arī to izmantot, kamēr izmantotājs mani norāda kā autoru
+
+.md fails nav parasts teksta fails, jo tajā var veikt dažādas formatējuma izmaiņas, var veidot garus tektus, kas nav koda veidā.
